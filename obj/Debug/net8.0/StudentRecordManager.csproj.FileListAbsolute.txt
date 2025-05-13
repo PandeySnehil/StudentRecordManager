@@ -1,0 +1,14 @@
+C:\Users\KIIT\Downloads\StudentRecordManager\bin\Debug\net8.0\StudentRecordManager.exe
+C:\Users\KIIT\Downloads\StudentRecordManager\bin\Debug\net8.0\StudentRecordManager.deps.json
+C:\Users\KIIT\Downloads\StudentRecordManager\bin\Debug\net8.0\StudentRecordManager.runtimeconfig.json
+C:\Users\KIIT\Downloads\StudentRecordManager\bin\Debug\net8.0\StudentRecordManager.dll
+C:\Users\KIIT\Downloads\StudentRecordManager\bin\Debug\net8.0\StudentRecordManager.pdb
+C:\Users\KIIT\Downloads\StudentRecordManager\obj\Debug\net8.0\StudentRecordManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Downloads\StudentRecordManager\obj\Debug\net8.0\StudentRecordManager.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\StudentRecordManager\obj\Debug\net8.0\StudentRecordManager.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\StudentRecordManager\obj\Debug\net8.0\StudentRecordManager.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\StudentRecordManager\obj\Debug\net8.0\StudentRecordManager.dll
+C:\Users\KIIT\Downloads\StudentRecordManager\obj\Debug\net8.0\refint\StudentRecordManager.dll
+C:\Users\KIIT\Downloads\StudentRecordManager\obj\Debug\net8.0\StudentRecordManager.pdb
+C:\Users\KIIT\Downloads\StudentRecordManager\obj\Debug\net8.0\StudentRecordManager.genruntimeconfig.cache
+C:\Users\KIIT\Downloads\StudentRecordManager\obj\Debug\net8.0\ref\StudentRecordManager.dll
